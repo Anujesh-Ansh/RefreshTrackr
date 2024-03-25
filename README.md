@@ -35,7 +35,9 @@ To run RefreshTrackr locally on your machine, follow these steps:
 
 Check out RefreshTrackr in action below:
 
-![RefreshTrackr Demo GIF](GIF_URL_HERE)
+<div align="center"> 
+    <img src="https://github.com/Anujesh-Ansh/AutoRefresh/assets/110138469/6cf0724f-db7b-46a3-a1ca-28f402d1ea08" alt="AutoRefresh Demo GIF">
+</div>
 
 ## Support and Feedback
 
