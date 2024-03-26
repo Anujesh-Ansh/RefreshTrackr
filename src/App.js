@@ -30,7 +30,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p onClick={handleResetOnClick} style={{ cursor: 'pointer' }}>
+        <p onClick={handleResetOnClick} >
           <code>
             Refresh Count: {refreshCount}
           </code>
